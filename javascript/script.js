@@ -17,7 +17,7 @@ function novaTarefa() {
   span.textContent = tarefaTexto;
   const removerButton = document.createElement("button");
   removerButton.classList.add("remover");
-  removerButton.textContent = "Adicionar";
+  removerButton.textContent = "X";
 
 
 
